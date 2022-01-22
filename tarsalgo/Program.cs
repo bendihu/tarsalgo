@@ -1,6 +1,6 @@
 ﻿namespace tarsalgo
 {
-    class Tarsalgo
+    public class Tarsalgo
     {
         public int Ora { get; set; }
         public int Perc { get; set; }
@@ -133,7 +133,7 @@
 
             Console.WriteLine();
         }
-        private static void Feladat7()
+        private static void Feladat7() 
         {
             Console.WriteLine("7. feladat");
 
