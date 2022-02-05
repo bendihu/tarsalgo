@@ -7,7 +7,7 @@
         public int Azonosito { get; set; }
         public string Athaladas { get; set; }
     }
-    class Program
+    public class Program
     {
         static List<Tarsalgo> tars = new List<Tarsalgo>();
         static int bekertAzonosito = 0;
